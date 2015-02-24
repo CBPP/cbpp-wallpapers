@@ -1,0 +1,13 @@
+Source: cbpp-wallpapers
+Section: x11
+Priority: extra
+Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://crunchbangplusplus.org
+
+Package: cbpp-wallpapers
+Architecture: all
+Depends: ${misc:Depends}
+Description: A selection of wallpapers
+ Images for use as backgrounds with CrunchBangPlusPlus.
